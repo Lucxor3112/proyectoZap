@@ -28,4 +28,7 @@
     footer{
         padding-bottom: 4%;
     }
+    footer .detalle a{
+        margin-left: 2%;
+    }
 }
