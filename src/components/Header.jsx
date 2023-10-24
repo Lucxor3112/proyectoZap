@@ -9,7 +9,7 @@ function Header() {
             <h1>ZAP</h1>
         </div>
         <div className='buy'>
-          <a href="https://api.whatsapp.com/send?phone=543865442380">  
+          <a href="https://api.whatsapp.com/send?phone=543865442380&text=Quiero comprarte unas zapatillas que vi en la pagina!">  
               <FontAwesomeIcon icon={faCartShopping} />
           </a>
         </div>
