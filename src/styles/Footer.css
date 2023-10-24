@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
 footer{
     padding-top: 0.5%;
     padding-bottom: 2%;
@@ -19,22 +21,8 @@ footer div a{
     margin-left: 0.5%;
 }
 
-.redes{
-    margin-top: 1%;
-    margin-bottom: 1.5%;
-    font-size: 200%;
-}
-
-.redes a{
-    margin-left: 2%;
-}
-
-.redes .face{
-    margin-left: 0%;
-}
-
 .footer .logo{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Cormorant Garamond', serif;
     font-size: 160%;
     text-transform: uppercase;
     margin-bottom: 0.3%;
