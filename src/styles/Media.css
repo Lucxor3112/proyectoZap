@@ -1,0 +1,28 @@
+@media (max-width: 480px){
+    .logos{
+        grid-template-columns: repeat(1,0fr);
+    }
+    .logos img{
+        margin-left: 57%;
+        margin-bottom: 30%
+    }
+    .adidas img{
+        width: 30vw;
+        margin-top: 20%;
+    }
+    .converse img{
+        width: 30vw;
+    }
+    .jordan img{
+        width: 34vw;
+    }
+    .nike img{
+        width: 34vw;
+    }
+    .vans img{
+        width: 32vw;
+    }
+    .lacoste img{
+        width: 34vw;
+    }
+}

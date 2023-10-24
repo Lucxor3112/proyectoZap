@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&display=swap');
+
+.main{
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main h1{
+    font-family: 'Barlow Condensed', sans-serif;
+    margin-top: 0%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.logos{
+    box-shadow: 0px 0px 10px 0px rgb(156, 156, 156);
+    padding-top: 3%;
+    width: 70vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+
+.logos img{
+    margin-left: 31%;
+    margin-bottom: 15%;
+}
+
+.adidas img{
+    width: 9vw;
+}
+
+.converse img{
+    width: 9vw;
+}
+.jordan img{
+    width: 11vw;
+}
+.nike img{
+    width: 11vw;
+}
+.vans img{
+    width: 10vw;
+}
+.lacoste img{
+    width: 11vw;
+}
+
+
+
