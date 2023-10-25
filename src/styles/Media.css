@@ -1,4 +1,7 @@
 @media (max-width: 480px){
+    .header{
+        height: 10vh;
+    }
     .logos{
         grid-template-columns: repeat(1,0fr);
     }
