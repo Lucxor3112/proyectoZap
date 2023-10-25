@@ -1,8 +1,10 @@
+import React from 'react'
 import '../styles/Header.css'
 import '../styles/Main.css'
 import '../styles/App.css'
 import '../styles/Footer.css'
 import '../styles/Media.css'
+import '../styles/Cards.css'
 import Header from './Header'
 import Main from './Main'
 import Adidas from './Adidas'
@@ -18,7 +20,7 @@ function App()
 {
   return (
     <>
-      <div>
+      <div className="App">
         <Header></Header>
         <Main></Main>
         <Routes>

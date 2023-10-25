@@ -1,0 +1,62 @@
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.979) !important;
+    transition: all 0.1s linear;
+}
+.card-body{
+    padding: 2rem 0 !important;
+}
+
+.card-text{
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.card-img-top {
+  transition: all 0.2s ease-in-out;
+  height: auto;
+  max-height: 6000px;
+  width: auto;
+  max-width: 6000px;
+  aspect-ratio: 0.9;
+}
+
+.card-img-top:hover {
+    transform: scale(1.8);
+}
+
+.lul {
+    padding-top: 50px;
+}
+
+.titulo{
+    padding: 2rem 0 !important;
+}
+.descripcion {
+    padding: 0.3rem 1rem;
+    padding-bottom: 20px;
+    font-size: 1rem;
+}
+
+.top {
+    margin-top: 50px;
+}
+
+.izq {
+    margin-left: 15px;
+}
+
+.der {
+    margin-right: 15px;
+}
+
+.hide{
+    display:none;
+}
+
+.show{
+    display:block;
+}

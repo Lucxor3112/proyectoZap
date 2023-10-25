@@ -2,3 +2,26 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.App {
+    background: rgb(238, 69, 64);
+
+    background: rgb(134,88,38);
+    background: linear-gradient(
+        0deg, 
+        rgba(134,88,38,1) 5%, 
+        rgba(236,223,171,1) 52%,
+        rgba(245,243,233,1) 77%);
+}
+
+.lel {
+    height: auto;
+    max-height: 450px;
+    width: auto;
+    max-width: 450px;
+    aspect-ratio: 0.9;
+}
+
+.animate__animated{
+    margin-bottom: 5%;
+}
